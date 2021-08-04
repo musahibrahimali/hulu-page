@@ -9,6 +9,6 @@ This is a face recognition system making use of web cam to detect face and emoti
 
 ## first install node.js from <https://nodejs.org/en/download/current/>
 
-run npm `<code>install -g typescript</code>`
+run npm `install -g typescript`
 
-open a terminal in the working directory and run `<code>tsc -w</code>`
+open a terminal in the working directory and run `tsc -w`
